@@ -17,7 +17,7 @@ setuptools.setup(
         "certifi>=2018.8.24",
         "Click>=7.0",
         "lxml>=4.1.0",
-        "markdown2==2.3.8",
+        "markdown2==2.4.0",
         "pytidylib>=0.3.2",
         "PyYAML>=5.1",
         "urllib3>=1.25.3",
